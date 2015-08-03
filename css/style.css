@@ -1,0 +1,15 @@
+#container {
+    width: 80%;
+    height: 80%;
+    border: 1px solid gray;
+    position: absolute;
+}
+
+#position {
+    width: 80%;
+    height: 10%;
+    border: 1px solid gray;
+    position: absolute;
+    background-color: #cacfd2;
+    margin-top: 517px;
+}
